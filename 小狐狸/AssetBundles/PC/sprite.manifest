@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2834174878
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: caff82e6d62d0719fcc416ce25809e45
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c29c357128feff56790ec9816c4fc93d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ABRes/UI/Icon.spriteatlas
+Dependencies: []
